@@ -12,7 +12,6 @@ C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\Unit
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\UnityEngine.dll
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\Mono.Cecil.dll
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\MonoMod.Utils.dll
-C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
@@ -85,7 +84,6 @@ C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\0Har
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\BepInEx.xml
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\ModdingUtils.pdb
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\MonoMod.Utils.xml
-C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\WolfsCards.csproj.AssemblyReference.cache
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\WolfsCards.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\WolfsCards.AssemblyInfoInputs.cache
@@ -95,3 +93,15 @@ C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\Wolf
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\WolfsCards.csproj.Up2Date
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\WolfsCards.dll
 C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\obj\Debug\netstandard2.1\WolfsCards.pdb
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\AttackLevelPatch.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\BlockForcePatch.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\Infoholic.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\LegRaycastersPatch.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\mcs.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\MMHOOK_Assembly-CSharp.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\PlayerJumpPatch.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\RespawnPatch.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\Tomlet.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\UnityExplorer.BIE5.Mono.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\UniverseLib.Mono.dll
+C:\Users\rober\Downloads\GitHub Desktop\WolfsCards\bin\Debug\netstandard2.1\ZeroGBulletPatch.dll

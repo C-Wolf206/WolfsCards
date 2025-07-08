@@ -11,13 +11,25 @@
         "dependencies": {
           "0Harmony": "2.9.0.0",
           "Assembly-CSharp": "0.0.0.0",
+          "AttackLevelPatch": "1.0.0.0",
           "BepInEx": "5.4.19.0",
+          "BlockForcePatch": "1.0.0.0",
           "CardChoiceSpawnUniqueCardPatch": "1.0.0.0",
+          "Infoholic": "1.0.0.0",
+          "LegRaycastersPatch": "1.0.0.0",
+          "mcs": "1.0.0.0",
+          "MMHOOK_Assembly-CSharp": "0.0.0.0",
           "ModdingUtils": "1.0.0.0",
+          "PlayerJumpPatch": "1.0.0.0",
+          "RespawnPatch": "1.0.0.0",
+          "Tomlet": "3.1.3.0",
           "UnboundLib": "3.2.13.0",
           "UnityEngine.AssetBundleModule": "0.0.0.0",
           "UnityEngine.CoreModule": "0.0.0.0",
-          "UnityEngine": "0.0.0.0"
+          "UnityEngine": "0.0.0.0",
+          "UnityExplorer.BIE5.Mono": "4.8.2.0",
+          "UniverseLib.Mono": "1.4.3.0",
+          "ZeroGBulletPatch": "1.0.0.0"
         },
         "runtime": {
           "WolfsCards.dll": {}
@@ -39,11 +51,27 @@
           }
         }
       },
+      "AttackLevelPatch/1.0.0.0": {
+        "runtime": {
+          "AttackLevelPatch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "BepInEx/5.4.19.0": {
         "runtime": {
           "BepInEx.dll": {
             "assemblyVersion": "5.4.19.0",
             "fileVersion": "5.4.19.0"
+          }
+        }
+      },
+      "BlockForcePatch/1.0.0.0": {
+        "runtime": {
+          "BlockForcePatch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -55,11 +83,67 @@
           }
         }
       },
+      "Infoholic/1.0.0.0": {
+        "runtime": {
+          "Infoholic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LegRaycastersPatch/1.0.0.0": {
+        "runtime": {
+          "LegRaycastersPatch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "mcs/1.0.0.0": {
+        "runtime": {
+          "mcs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MMHOOK_Assembly-CSharp/0.0.0.0": {
+        "runtime": {
+          "MMHOOK_Assembly-CSharp.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
       "ModdingUtils/1.0.0.0": {
         "runtime": {
           "ModdingUtils.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PlayerJumpPatch/1.0.0.0": {
+        "runtime": {
+          "PlayerJumpPatch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RespawnPatch/1.0.0.0": {
+        "runtime": {
+          "RespawnPatch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tomlet/3.1.3.0": {
+        "runtime": {
+          "Tomlet.dll": {
+            "assemblyVersion": "3.1.3.0",
+            "fileVersion": "3.1.3.0"
           }
         }
       },
@@ -95,6 +179,30 @@
           }
         }
       },
+      "UnityExplorer.BIE5.Mono/4.8.2.0": {
+        "runtime": {
+          "UnityExplorer.BIE5.Mono.dll": {
+            "assemblyVersion": "4.8.2.0",
+            "fileVersion": "4.8.2.0"
+          }
+        }
+      },
+      "UniverseLib.Mono/1.4.3.0": {
+        "runtime": {
+          "UniverseLib.Mono.dll": {
+            "assemblyVersion": "1.4.3.0",
+            "fileVersion": "1.4.3.0"
+          }
+        }
+      },
+      "ZeroGBulletPatch/1.0.0.0": {
+        "runtime": {
+          "ZeroGBulletPatch.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Mono.Cecil/0.10.4.0": {
         "runtime": {
           "Mono.Cecil.dll": {
@@ -106,14 +214,6 @@
       "MonoMod.Utils/22.1.29.1": {
         "runtime": {
           "MonoMod.Utils.dll": {
-            "assemblyVersion": "22.1.29.1",
-            "fileVersion": "22.1.29.1"
-          }
-        }
-      },
-      "MonoMod.RuntimeDetour/22.1.29.1": {
-        "runtime": {
-          "MonoMod.RuntimeDetour.dll": {
             "assemblyVersion": "22.1.29.1",
             "fileVersion": "22.1.29.1"
           }
@@ -681,7 +781,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AttackLevelPatch/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "BepInEx/5.4.19.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlockForcePatch/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -691,7 +801,42 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Infoholic/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LegRaycastersPatch/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mcs/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MMHOOK_Assembly-CSharp/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ModdingUtils/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerJumpPatch/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RespawnPatch/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tomlet/3.1.3.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -716,17 +861,27 @@
       "serviceable": false,
       "sha512": ""
     },
+    "UnityExplorer.BIE5.Mono/4.8.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniverseLib.Mono/1.4.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZeroGBulletPatch/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Mono.Cecil/0.10.4.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "MonoMod.Utils/22.1.29.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MonoMod.RuntimeDetour/22.1.29.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
