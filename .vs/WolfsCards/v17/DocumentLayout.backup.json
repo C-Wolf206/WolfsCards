@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|c:\\users\\rober\\downloads\\github desktop\\wolfscards\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|c:\\users\\rober\\downloads\\github desktop\\wolfscards\\cards\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:cards\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|c:\\users\\rober\\downloads\\github desktop\\wolfscards\\wolfscards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:wolfscards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Cards\\Template.cs",
+              "RelativeDocumentMoniker": "Cards\\Template.cs",
+              "ToolTip": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Cards\\Template.cs",
+              "RelativeToolTip": "Cards\\Template.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T02:26:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WolfsCards.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\WolfsCards.cs",
+              "RelativeDocumentMoniker": "WolfsCards.cs",
+              "ToolTip": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\WolfsCards.cs",
+              "RelativeToolTip": "WolfsCards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T01:31:37.609Z",
               "EditorCaption": ""
