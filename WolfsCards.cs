@@ -33,7 +33,7 @@ namespace WolfsCards
         }
         void Start()
         {
-            CustomCard.BuildCard<Template>();
+            CustomCard.BuildCard<EvasiveManeuvers>();
             instance = this;
         }
     }
