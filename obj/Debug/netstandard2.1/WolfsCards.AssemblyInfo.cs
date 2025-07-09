@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WolfsCards")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4c6a093d0ffce7065980b89e98bf0b3f149ff10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a80ee89d18c13aa932fdc6986d0e99816c53328")]
 [assembly: System.Reflection.AssemblyProductAttribute("WolfsCards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WolfsCards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

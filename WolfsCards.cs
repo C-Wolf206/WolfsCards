@@ -6,6 +6,7 @@ using HarmonyLib;
 using CardChoiceSpawnUniqueCardPatch.CustomCategories;
 
 
+
 namespace WolfsCards
 {
     // These are the mods required for our mod to work
@@ -22,7 +23,7 @@ namespace WolfsCards
         private const string ModName = "WolfsCards";
         public const string Version = "1.0.0"; // What version are we on (major.minor.patch)?
         public const string ModInitials = "Walf";
-        public static WolfsCards instance { get; private set; }
+        public static WolfsCards? Instance { get; private set; }
 
 
         void Awake()
@@ -34,7 +35,7 @@ namespace WolfsCards
         void Start()
         {
             CustomCard.BuildCard<EvasiveManeuvers>();
-            instance = this;
+            Instance = this;
         }
     }
 }

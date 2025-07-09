@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:wolfscards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|c:\\users\\rober\\downloads\\github desktop\\wolfscards\\cards\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:cards\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|c:\\users\\rober\\downloads\\github desktop\\wolfscards\\cards\\evasivemaneuvers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:cards\\evasivemaneuvers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|c:\\users\\rober\\downloads\\github desktop\\wolfscards\\cards\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9144F28-A3AB-4D0D-A79B-815F237683B1}|WolfsCards.csproj|solutionrelative:cards\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EvasiveManeuvers.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Cards\\EvasiveManeuvers.cs",
               "RelativeDocumentMoniker": "Cards\\EvasiveManeuvers.cs",
               "ToolTip": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Cards\\EvasiveManeuvers.cs",
               "RelativeToolTip": "Cards\\EvasiveManeuvers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAD4v0wAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T02:34:49.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Template.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Cards\\Template.cs",
               "RelativeDocumentMoniker": "Cards\\Template.cs",
               "ToolTip": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\Cards\\Template.cs",
               "RelativeToolTip": "Cards\\Template.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T02:26:35.227Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "WolfsCards.cs",
               "ToolTip": "C:\\Users\\rober\\Downloads\\GitHub Desktop\\WolfsCards\\WolfsCards.cs",
               "RelativeToolTip": "WolfsCards.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T01:31:37.609Z",
               "EditorCaption": ""
